@@ -297,7 +297,7 @@ const Portfolio = () => {
                     </div>
                     <div>
                       <p className="font-semibold">Email</p>
-                      <p className="text-gray-400">arun.shahi@email.com</p>
+                      <p className="text-gray-400">arunshahi677@email.com</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-4">
@@ -306,7 +306,7 @@ const Portfolio = () => {
                     </div>
                     <div>
                       <p className="font-semibold">Phone</p>
-                      <p className="text-gray-400">+977 98XX-XXXXXX</p>
+                      <p className="text-gray-400">+977 9765433429</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-4">
